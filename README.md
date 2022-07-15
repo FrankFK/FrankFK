@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help to make Woopec C# Turtle Graphics better known 
 - 💬 I'm blogging here: https://frank.woopec.net/
 - 📫 How to reach me: https://frank.woopec.net/about.html
-- ⚡ Helps: ..., grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.
+- ⚡ Helps: "..., grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference."
 
 <!--
 **FrankFK/FrankFK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
