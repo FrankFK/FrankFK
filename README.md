@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on teaching kids learning C#
 - 🤔 I’m looking for help to make Woopec C# Turtle Graphics better known 
 - 💬 I'm blogging here: https://frank.woopec.net/
+- 🦣 I'm tooting on <a rel="me" href="https://fosstodon.org/@FrankKruse">Mastodon</a>
 - 📫 How to reach me: https://frank.woopec.net/about.html
 - ⚡ Helps: "..., grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference."
 
