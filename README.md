@@ -3,7 +3,7 @@
 - 😄 I'm Frank Kruse
 - 🔭 I’m currently working on [Woopec C# Graphics](https://frank.woopec.net/woopec_docs/WoopecIntro.html) ([Github Repo](https://github.com/FrankFK/WoopecGraphics))
 - 🌱 I’m currently trying to learn more about [AvaloniaUI](https://github.com/AvaloniaUI/Avalonia)
-- 👯 I’m looking to collaborate on teaching kids learning C#
+- 👯 I’m looking to collaborate on teaching people learning C#
 - 🤔 I’m looking for help to make Woopec C# Graphics better known 
 - 💬 I'm blogging here: https://frank.woopec.net/
 - 🦣 I'm tooting on <a rel="me" href="https://fosstodon.org/@FrankKruse">Mastodon</a>
