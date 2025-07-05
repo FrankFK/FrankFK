@@ -1,8 +1,8 @@
 ### Hi there
 
 - 😄 I'm Frank Kruse
-- 🔭 I’m currently working on [Woopec C# Turtle Graphics](https://frank.woopec.net/woopec_docs/WoopecIntro.html) ([Github Repo](https://github.com/FrankFK/WoopecGraphics))
-- 🌱 I’m currently trying to learn more about [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric)
+- 🔭 I’m currently working on [Woopec C# Graphics](https://frank.woopec.net/woopec_docs/WoopecIntro.html) ([Github Repo](https://github.com/FrankFK/WoopecGraphics))
+- 🌱 I’m currently trying to learn more about [AvaloniaUI](https://github.com/AvaloniaUI/Avalonia)
 - 👯 I’m looking to collaborate on teaching kids learning C#
 - 🤔 I’m looking for help to make Woopec C# Turtle Graphics better known 
 - 💬 I'm blogging here: https://frank.woopec.net/
